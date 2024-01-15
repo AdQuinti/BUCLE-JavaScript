@@ -20,14 +20,14 @@ console.log("Bucle for"); // BUCLE FOR
 for (let i = 0; i < 5; i++) {
     document.writeln("Iteración número: " + i+"<br>");
 }
-/* 
+
 document.writeln("<br>"+"\nFOR EACH"+"<br>");
 console.log("Bucle For Each"); // BUCLE FOR EACH
 const frutas = ["manzana", "banana", "cereza"];
 frutas.forEach(function(fruta) {
     document.writeln(fruta+"<br>");
     }
-); */
+);
 
 document.writeln("<br>"+"\nFOR...IN"+"<br>");
 console.log("Bucle for...in"); 
